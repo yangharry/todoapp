@@ -1,0 +1,7 @@
+body {
+    font-family: 'nanumsquare';
+}
+
+div, button { 
+    box-sizing: border-box;
+}
